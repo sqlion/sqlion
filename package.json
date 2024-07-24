@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HFRLDM/SQLION.git"
+    "url": "https://github.com/sqlion/sqlion.git"
   },
   "keywords": [
     "web",
@@ -18,7 +18,7 @@
   "author": "R.M.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HFRLDM/SQLION/issues"
+    "url": "https://github.com/SQLION/SQLION/issues"
   },
   "homepage": "https://github.com/HFRLDM/SQLION#readme"
 }
