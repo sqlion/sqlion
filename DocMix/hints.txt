@@ -57,3 +57,5 @@ vorillaz
 1) Parameters are coming as parts of the req object, take a look at the docs. You can even create parametric URLs 2) You can have GET, POST, PUT etc listeners on the router – 
 vorillaz
 Commented Mar 18, 2021
+
+___________________________________
